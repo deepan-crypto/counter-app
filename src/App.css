@@ -1,0 +1,98 @@
+.App {
+  background-color: rgb(11, 11, 11);
+  text-align: center;
+  height: 120vh;
+  color: aqua;
+  font-size: 15px;
+}
+
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.Gf {
+  border: 2px solid yellowgreen;
+  margin: 10px;
+  padding: 10px;
+}
+
+.f {
+  border: 2px solid blue;
+  margin: 10px;
+  padding: 10px;
+}
+
+.S {
+  border: 2px solid yellow;
+  margin: 10px;
+  padding: 10px;
+}
+
+.Gs {
+  border: 2px solid red;
+  margin: 10px;
+  padding: 10px;
+} */
+
+.Counter {
+  width: 35%;
+  border: 2px solid black;
+  margin: 10px auto;
+  padding: 15px;
+  /* border: 30px; */
+  border-radius: 8px;
+  background-color: rgb(53, 53, 52);
+  color: rgb(255, 255, 255);
+}
+Button {
+  border: none;
+  color: white;
+  padding: 5px 12px;
+  border-radius: 4px;
+  margin-left: 8px;
+  font-size: 24 px;
+}
+.inc {
+  background-color: green;
+}
+.dec {
+  background-color: red;
+}
+
+.inc:hover {
+  background-color: rgb(0, 255, 0);
+}
+.dec:hover {
+  background-color: rgb(63, 0, 0);
+}
